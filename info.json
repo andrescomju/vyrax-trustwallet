@@ -1,0 +1,8 @@
+{
+  "name": "Vyrax Token",
+  "symbol": "VYRAX",
+  "decimals": 18,
+  "address": "0x899F6eB2cF9ffa77fb0aF0F5dC4e13a6302F5c2C",
+  "chainId": 56,
+  "logoURI": "logo.png"
+}
